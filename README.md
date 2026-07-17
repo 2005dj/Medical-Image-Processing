@@ -1,7 +1,7 @@
 # Pulmonary Fibrosis CT Analysis Pipeline
 
 A Python pipeline that processes 3D chest CT scans, segments lung tissue, and measures 
-lung volume — then checks those volumes against patients' real clinical lung-function 
+lung volume and finally compares those volumes against patients' real clinical lung-function 
 scores (FVC).
 
 Built on the [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/competitions/osic-pulmonary-fibrosis-progression) 
